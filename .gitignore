@@ -1,0 +1,17 @@
+node_modules/
+/.svelte-kit/
+/build/
+.DS_Store
+
+# A developer's own settings: `bun run setup` writes .env from .env.example, with a fresh secret.
+.env
+.env.*
+!.env.example
+
+vite.config.js.timestamp-*
+vite.config.ts.timestamp-*
+
+# Paraglide compiles messages/ here on every check, test and build.
+src/lib/paraglide
+project.inlang/*
+!project.inlang/settings.json
