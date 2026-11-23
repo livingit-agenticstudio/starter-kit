@@ -19,5 +19,5 @@ code is the team's.
 
 ## With Agentic Studio
 
-The skills in `.claude/` work the customer's issues through Agentic Studio's MCP server. The address, the command to
-add it and how to install the agent kit are under **Agenter** in Agentic Studio.
+The skills in `.claude/` work the customer's issues through the connection (MCP) to Agentic Studio. The address, the
+command to add it and how to install the agent kit are under **Agenter** in Agentic Studio.
