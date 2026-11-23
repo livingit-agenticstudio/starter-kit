@@ -27,8 +27,8 @@ bun run dev     # the app at http://localhost:5173
   to sign in is turned on: the team chooses SSO or the plugin the project needs
   ([patterns](engineering/patterns.md#auth)).
 - **Claude Code skills** in `.claude/`: `work-an-issue` and `write-an-issue` for the customer's issues through Agentic
-  Studio's MCP tools, and an `issue-reviewer` agent. They are plain files; change them as the team works. The MCP
-  address and the agent kit are under Agenter in Agentic Studio.
+  Studio's MCP tools, and an `issue-reviewer` agent. They are plain files; change them as the team works. The
+  connection (MCP) address and the agent kit are under Agenter in Agentic Studio.
 - **Texts** in `messages/`, through Paraglide, never written in a component.
 
 ## Before a pull request
